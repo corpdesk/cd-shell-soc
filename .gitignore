@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+*.tsbuildinfo
+
+# Local environment & log files
+.env
+.env.local
+*.log
+npm-debug.log*
+
+# IDE & OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
